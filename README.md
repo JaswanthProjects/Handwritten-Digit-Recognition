@@ -35,7 +35,7 @@ The MNIST dataset is a popular dataset used in machine learning for benchmarking
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mnist-knn.git
+   git clone https://github.com/JaswanthProjects/Handwritten-Digit-Recognition.git
    cd mnist-knn
 
 ![image](https://github.com/JaswanthProjects/Handwritten-Digit-Recognition/assets/85422176/9955d112-bc14-4d44-8e42-ac147dd08531)
