@@ -1,4 +1,4 @@
-# MNIST Handwritten Digit Recognition with k-Nearest Neighbors (k-NN)
+# MNIST Handwritten Digit Recognition with k-NN
 
 This repository contains a Python script that demonstrates the process of training and evaluating a k-Nearest Neighbors (k-NN) classifier on the MNIST dataset for handwritten digit recognition.
 
